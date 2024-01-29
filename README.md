@@ -9,3 +9,6 @@ We offer easy-to-use tools for processing the Person Segmentation dataset, ensur
 Assessing your model's performance is also simple with our evaluation tools, including metrics like pixel accuracy and Intersection over Union (IoU).
 
 We welcome contributions and feedback from the community. Feel free to get involved and help us improve!
+
+# Dataset
+[Person Segmentation](https://www.kaggle.com/nikhilroxtomar/person-segmentation/download) dataset
