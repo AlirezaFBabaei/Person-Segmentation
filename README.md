@@ -14,7 +14,7 @@ Dataset: [Person Segmentation](https://www.kaggle.com/nikhilroxtomar/person-segm
 # Results
 
 | Accuracy  | IoU | F1-score |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | 97.29  | 91,83  | 96.27 |
 
 ![young-woman-pretty-shooting-157717_0](https://github.com/AlirezaFBabaei/Person-Segmentation/assets/50638445/9a77651d-8d82-406d-93a6-ed4f836909ab)
